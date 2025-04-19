@@ -1,6 +1,6 @@
 # Saran Sasi | Web Developer | Artist | 
 
-👋 Hi, I’m **Saran Sasi** — a creative freelancer with strong skills in **web development**, **realistic pencil drawing**, and **math tutoring**. I'm passionate about building responsive websites, developing small games and apps, and helping students understand complex math concepts.
+👋 Hi, I’m **Saran Sasi** — a creative freelancer with strong skills in **web development** and **realistic pencil drawing**. I'm passionate about building responsive websites, developing small games and apps, and helping students understand complex problem concepts.
 
 ### 🚀 What I can do:
 - **Web Development**: HTML, CSS, JavaScript, WordPress, Shopify
@@ -16,7 +16,7 @@
 ### 🌍 Let's Connect:
 - **Email**: [saranvsasi123@gmail.com](mailto:saranvsasi123@gmail.com)
 - **GitHub**: [github.com/Black-Eagle-R67](https://github.com/Black-Eagle-R67)
-- **LinkedIn**: [linkedin.com/in/saransasi](#) _(if you have a LinkedIn profile, link here)_
+- **LinkedIn**: [www.linkedin.com/in/saran-sasi-dev](www.linkedin.com/in/saran-sasi-dev)
 
 ---
 

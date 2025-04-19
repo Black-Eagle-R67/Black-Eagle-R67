@@ -1,4 +1,4 @@
-# Saran Sasi | Web Developer | Artist | Math |
+# Saran Sasi | Web Developer | Artist | 
 
 👋 Hi, I’m **Saran Sasi** — a creative freelancer with strong skills in **web development**, **realistic pencil drawing**, and **math tutoring**. I'm passionate about building responsive websites, developing small games and apps, and helping students understand complex math concepts.
 
